@@ -2,9 +2,7 @@
   <div id="result">
     <h1>🌟💖🌟 You have completed 🌟💖🌟</h1>
     <p>
-      In {{ Math.round(timer / 1000) }} seconds --> (<span style="color: red"
-        >QUÁ YẾU</span
-      >)
+      In {{ Math.round(timer / 1000) }} seconds
     </p>
 
     <button @click="onStartAgain()">Start Again</button>
