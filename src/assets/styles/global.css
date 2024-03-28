@@ -1,0 +1,14 @@
+:root {
+  --dark: #19283c;
+  --light: #fff;
+  --font: "Concert One", sans-serif;
+}   
+
+body {
+  font-family: var(--font);
+  width: 100%;
+  background-color: #19283c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
