@@ -1,6 +1,6 @@
 <template>
   <p class="note">
-    Mẹ chơi đc thì chơi, ko chơi đc out
+    Entertainment game, come back here
     <a href="#" @click="onStartAgain()">Click me</a>
   </p>
 </template>
